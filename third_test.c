@@ -23,6 +23,6 @@ void main(){
 
 
     int soma = maior + menor;
-    printf("A soma do maior e menor valor do array eh: %d", soma);
+    printf("MAIOR: %d\nMENOR: %d\nMEDIA: %d", menor, maior,soma);
 
 }
